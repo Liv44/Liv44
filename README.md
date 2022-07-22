@@ -7,3 +7,6 @@
 - 😄 Mes pronoms : sher/her (elle)
 
 Vous trouverez ici tous les projets réalisés dans le cadre de ma formation Bachelor Informatique. Je suis preneuse de tout retour sur mes travaux effectués !
+
+![Liv44's GitHub stats](https://github-readme-stats.vercel.app/api?username=liv44&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liv44&layout=compact&theme=react)

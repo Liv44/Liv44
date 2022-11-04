@@ -1,8 +1,8 @@
 ### Bonjour, et bienvenue sur mon profil !
 
 - 🧑‍🎓 Étudiante en 2ème année de Bachelor Informatique à Nantes Ynov Campus 💻 
-- 🌱 Je suis actuellement en CDD de 3 mois en tant que développeuse Front End Angular chez Ouivalo
-- 🧑🏼‍💻 Je commence tout juste mon portfolio/blog en NextJS.
+- 🎉 Je suis actuellement en alternance de 3 ans en tant que développeuse Fullstack chez theTribe, où j'apprends les technos NodeJS et ReactJS.
+- 🧑🏼‍💻 J'ai fini mon portfolio/blog en NextJS que vous pouvez retrouver [ici](https://olivia-moreau.vercel.app/).
 - 📫 Mon email : moreauolivia49@gmail.com
 - 😄 Mes pronoms : sher/her (elle)
 

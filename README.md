@@ -1,8 +1,8 @@
 ### Bonjour, et bienvenue sur mon profil !
 
-- 🧑‍🎓 Étudiante en 1ère année de Mastère Informatique spécialité Développement Logiciel, IoT et Mobile à Nantes Ynov Campus 💻
+- 🧑‍🎓 Étudiante en dernière année de Mastère Informatique spécialité Développement Logiciel, IoT et Mobile à Nantes Ynov Campus 💻
 - 🎉 Je suis actuellement en alternance de 3 ans en tant que développeuse Fullstack chez theTribe, où j'apprends différentes technos.
-- 🧑🏼‍💻 J'ai fini mon portfolio/blog en NextJS que vous pouvez retrouver [ici](https://olivia-moreau.vercel.app/).
+- 🧑🏼‍💻 J'ai fini mon portfolio/blog en NextJS que vous pouvez retrouver [ici](https://olivia-moreau.vercel.app/). (Version de l'été 2022)
 - 📫 Mon email : moreauolivia49@gmail.com
 - 😄 Mes pronoms : sher/her (elle)
 
